@@ -1,0 +1,6 @@
+Code run by Yanxl
+Environment variable UWHPSC is /home/apple/workspaces/uwhpsc
+Environment variable MYHPSC is /home/apple/workspaces/myhpsc
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
