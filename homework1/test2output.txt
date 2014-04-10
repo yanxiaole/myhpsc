@@ -20,5 +20,5 @@ For more information about these matters, see the file named COPYING
 
 
 Compiling and running a Fortran code...
- Code run by  **insert your name here**
+ Code run by  Yanxl
  Successfully ran Fortran 90 program
